@@ -64,9 +64,3 @@ Every time a value is assigned, **Forward Checking** is triggered to update the 
     ```
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Developed as part of an Artificial Intelligence Lab project.*
