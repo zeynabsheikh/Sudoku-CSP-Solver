@@ -5,7 +5,7 @@ This project was developed as part of the **Artificial Intelligence Lab** to dem
 
 ---
 
-## 🧠 Core Algorithms & Heuristics
+## Core Algorithms & Heuristics
 
 To optimize the search process and minimize computational overhead, the following strategies were implemented:
 
@@ -16,7 +16,7 @@ To optimize the search process and minimize computational overhead, the followin
 
 ---
 
-## 📊 Experimental Results
+##  Experimental Results
 
 The solver was tested against the provided benchmark boards (`easy.txt`, `medium.txt`, `hard.txt`, and `veryhard.txt`). Based on the performance metrics:
 
@@ -29,7 +29,7 @@ The solver was tested against the provided benchmark boards (`easy.txt`, `medium
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 * `F23-0545_AI_Ass_05.ipynb`: The main Jupyter Notebook containing the CSP implementation and logic.
 * `easy.txt`, `medium.txt`, `hard.txt`, `veryhard.txt`: Input Sudoku puzzles used for testing.
@@ -37,7 +37,7 @@ The solver was tested against the provided benchmark boards (`easy.txt`, `medium
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 1. **Clone the project:**
    ```bash
